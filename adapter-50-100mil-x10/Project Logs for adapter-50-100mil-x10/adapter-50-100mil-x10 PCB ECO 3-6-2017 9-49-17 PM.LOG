@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=P2 Old Footprint=HDR2X4 New Footprint=HDR2X5
+Change Component Footprint: Designator=P1 Old Footprint=MHDR1X8 New Footprint=MHDR1X10
+Change Component Comment : Designator=P2 Old Comment=Header 4X2 New Comment=Header 5X2
+Change Component Comment : Designator=P1 Old Comment=MHDR1X8 New Comment=MHDR1X10
+Added Pin To Net: NetName=NetP1_9 Pin=P1-9
+Added Pin To Net: NetName=NetP1_9 Pin=P2-9
+Added Net: Name=NetP1_9
+Added Pin To Net: NetName=NetP1_10 Pin=P1-10
+Added Pin To Net: NetName=NetP1_10 Pin=P2-10
+Added Net: Name=NetP1_10
+Change Class Name : Old Net Name=adapter-50-100mil-x8 New Net Name=adapter-50-100mil-x10
